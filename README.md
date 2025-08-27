@@ -8,6 +8,7 @@ Hecho en vainilla JavaScript, con las siguientes características:
 - Validación campos requeridos.
 - Utiliza "fetch" para consultas a la API.
 - Spinner al hacer consultas.
+- Utiliza async/await para los fetch
 ___
 
 ## API
